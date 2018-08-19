@@ -7,7 +7,7 @@ if __name__ == '__main__':
 
     start_ver = "start"
     end_ver = "finish"
-
+    #creatinh vertexs
     my_graph.add_vertex(start_ver, 0)
     my_graph.add_vertex(end_ver, 0)
     my_graph.add_vertex('b', 5)
